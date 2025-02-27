@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Description 
+Infinite Money Glitch ($IMG) is a decentralized finance (DeFi) project built on the Solana blockchain. It leverages the advanced tax extension capabilities of the Token2022 program to create a unique reward system for token holders. This documentation provides an overview of the $IMG project, its key features, and its integration with the Token2022 program.
+The $IMG project implements a seamless 5% tax on all transactions, including buying, selling, and transferring tokens. This tax is automatically collected and distributed to token holders in SOL, providing them with a sustainable passive income stream. The reward distribution is proportional to the holding size, meaning that the more $IMG tokens a holder has, the higher their SOL yield.
+  
+## Key Features:
+* Automated SOL Rewards: Holders receive Solana directly to their wallets.
+* Proportional Distribution: Rewards scale with the holding size.
+* Fair Tax Structure: Consistent 5% tax across all transactions ensures market stability.
+* Token2022 Integration: Utilizing Solana's Token2022 program for enhanced efficiency and security.
+* Transparent Distribution: All reward calculations and distributions are verifiable on-chain.
+
+The Infinite Money Glitch ecosystem aims to reward long-term holders while maintaining market liquidity. By implementing the tax at the token program level, the project offers a more efficient and secure reward system compared to traditional reflection tokens.
 
 ## Getting Started
 
